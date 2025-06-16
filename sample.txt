@@ -1,0 +1,10 @@
+[2025-06-10 10:00:01] INFO: User admin logged in from 192.168.1.10
+[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42
+[2025-06-10 10:03:17] INFO: File /etc/passwd accessed by user guest
+[2025-06-10 10:05:22] WARNING: Unauthorized access attempt detected from 10.0.0.5
+[2025-06-10 10:06:55] INFO: Scheduled backup completed
+[2025-06-10 10:08:31] ALERT: Possible brute-force attack detected on SSH port
+[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data
+[2025-06-10 10:11:42] INFO: User logout - user admin
+[2025-06-13 21:30:10] Exploit attempt detected on port 443
+
