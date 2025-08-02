@@ -31,38 +31,26 @@ log-alert-system/
 ├── sample.txt # Sample log file (you can rename to .log)
 ├── README.md # This file
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🔧 How to Run
 
 1. **Clone the repo**
-   ```bash
+   
    git clone https://github.com/kumi125/log-alert-system.git
    cd log-alert-system
 Install dependencies
 
-bash
-Copy
-Edit
+
 pip install PyQt5
 Run the script
 
-bash
-Copy
-Edit
 python log_alert_gui.py
 📌 Make sure sample.txt exists and contains logs, or replace it with your own log file.
 
 ⚙️ **Customization**
 To change keywords:
 Edit the keywords list in log_alert_gui.py.
-
-To change the log file:
-Replace sample.txt with your own log file path.
 
 🛡️ **Use Cases**
 Monitoring firewall logs
