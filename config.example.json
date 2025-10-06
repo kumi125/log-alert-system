@@ -1,0 +1,7 @@
+{
+"log_files": ["sample.txt"],
+"keywords": ["error", "failed", "unauthorized", "denied"],
+"use_regex": false,
+"alert_sound": true,
+"alerts_file": "alerts.txt"
+}

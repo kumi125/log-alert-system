@@ -8,3 +8,11 @@
 [2025-06-10 10:11:42] INFO: User logout - user admin
 [2025-06-13 21:30:10] Exploit attempt detected on port 443
 
+[2025-06-14 22:02:29] ERROR: Permission denied while accessing /secure/data
+ERROR: Something failed in service A
+Permission denied while accessing /secure/data
+ERROR: Disk full on server 1
+Permission denied while accessing /secure/data
+ERROR: Something failed
+this is a test error line
+ERROR: Something failed at Sun Oct  5 01:21:56 PM GMT 2025

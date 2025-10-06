@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import (
     QFileDialog, QLabel, QMessageBox, QLineEdit, QHBoxLayout
 )
 from PyQt5.QtCore import pyqtSignal, QObject, QTimer
-import winsound
+#import winsound
 from datetime import datetime
 from collections import deque
 
@@ -113,7 +113,7 @@ class LogAlertApp(QWidget):
         if self.alert_queue:
             self.alert_showing = True
             message = self.alert_queue.popleft()
-            winsound.Beep(1000, 500)
+            #winsound.Beep(1000, 500)
             alert = QMessageBox(QMessageBox.Warning, "Suspicious Log Detected", message)
             alert.setStandardButtons(QMessageBox.Ok)
             alert.buttonClicked.connect(self.alert_closed)

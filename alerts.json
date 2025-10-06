@@ -1,0 +1,317 @@
+[
+  {
+    "time": "2025-10-05 12:49:45",
+    "keyword": "error",
+    "line": "ERROR: Something failed"
+  },
+  {
+    "time": "2025-10-05 13:08:08",
+    "keyword": "error",
+    "line": "this is a test error line"
+  },
+  {
+    "time": "2025-10-05 13:21:56",
+    "keyword": "error",
+    "line": "ERROR: Something failed at Sun Oct  5 01:21:56 PM GMT 2025"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "error",
+    "line": "[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "error",
+    "line": "[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "error",
+    "line": "[2025-06-14 22:02:29] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "error",
+    "line": "ERROR: Something failed in service A"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "denied",
+    "line": "Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "error",
+    "line": "ERROR: Disk full on server 1"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "denied",
+    "line": "Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "error",
+    "line": "ERROR: Something failed"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "error",
+    "line": "this is a test error line"
+  },
+  {
+    "time": "2025-10-05 13:27:31",
+    "keyword": "error",
+    "line": "ERROR: Something failed at Sun Oct  5 01:21:56 PM GMT 2025"
+  },
+  {
+    "time": "2025-10-05 13:29:57",
+    "keyword": "error",
+    "line": "[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42"
+  },
+  {
+    "time": "2025-10-05 13:29:57",
+    "keyword": "error",
+    "line": "[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:29:57",
+    "keyword": "error",
+    "line": "[2025-06-14 22:02:29] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:29:57",
+    "keyword": "error",
+    "line": "ERROR: Something failed in service A"
+  },
+  {
+    "time": "2025-10-05 13:29:58",
+    "keyword": "error",
+    "line": "ERROR: Disk full on server 1"
+  },
+  {
+    "time": "2025-10-05 13:29:58",
+    "keyword": "error",
+    "line": "ERROR: Something failed"
+  },
+  {
+    "time": "2025-10-05 13:29:58",
+    "keyword": "error",
+    "line": "this is a test error line"
+  },
+  {
+    "time": "2025-10-05 13:29:58",
+    "keyword": "error",
+    "line": "ERROR: Something failed at Sun Oct  5 01:21:56 PM GMT 2025"
+  },
+  {
+    "time": "2025-10-05 13:37:39",
+    "keyword": "error",
+    "line": "[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42"
+  },
+  {
+    "time": "2025-10-05 13:37:39",
+    "keyword": "error",
+    "line": "[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:37:39",
+    "keyword": "error",
+    "line": "[2025-06-14 22:02:29] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:37:39",
+    "keyword": "error",
+    "line": "ERROR: Something failed in service A"
+  },
+  {
+    "time": "2025-10-05 13:37:39",
+    "keyword": "denied",
+    "line": "Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:37:39",
+    "keyword": "error",
+    "line": "ERROR: Disk full on server 1"
+  },
+  {
+    "time": "2025-10-05 13:37:40",
+    "keyword": "denied",
+    "line": "Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-05 13:37:40",
+    "keyword": "error",
+    "line": "ERROR: Something failed"
+  },
+  {
+    "time": "2025-10-05 13:37:40",
+    "keyword": "error",
+    "line": "this is a test error line"
+  },
+  {
+    "time": "2025-10-05 13:37:40",
+    "keyword": "error",
+    "line": "ERROR: Something failed at Sun Oct  5 01:21:56 PM GMT 2025"
+  },
+  {
+    "time": "2025-10-06 07:09:03",
+    "keyword": "error",
+    "line": "[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42"
+  },
+  {
+    "time": "2025-10-06 07:09:04",
+    "keyword": "error",
+    "line": "[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-06 07:09:04",
+    "keyword": "error",
+    "line": "[2025-06-14 22:02:29] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-06 07:09:04",
+    "keyword": "error",
+    "line": "ERROR: Something failed in service A"
+  },
+  {
+    "time": "2025-10-06 07:09:04",
+    "keyword": "error",
+    "line": "ERROR: Disk full on server 1"
+  },
+  {
+    "time": "2025-10-06 07:09:04",
+    "keyword": "error",
+    "line": "ERROR: Something failed"
+  },
+  {
+    "time": "2025-10-06 07:09:05",
+    "keyword": "test",
+    "line": "this is a test error line"
+  },
+  {
+    "time": "2025-10-06 07:09:05",
+    "keyword": "error",
+    "line": "ERROR: Something failed at Sun Oct  5 01:21:56 PM GMT 2025"
+  },
+  {
+    "time": "2025-10-06 07:10:17",
+    "keyword": "error",
+    "line": "[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42"
+  },
+  {
+    "time": "2025-10-06 07:10:17",
+    "keyword": "error",
+    "line": "[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-06 07:10:17",
+    "keyword": "error",
+    "line": "[2025-06-14 22:02:29] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-06 07:10:17",
+    "keyword": "error",
+    "line": "ERROR: Something failed in service A"
+  },
+  {
+    "time": "2025-10-06 07:10:17",
+    "keyword": "error",
+    "line": "ERROR: Disk full on server 1"
+  },
+  {
+    "time": "2025-10-06 07:10:17",
+    "keyword": "error",
+    "line": "ERROR: Something failed"
+  },
+  {
+    "time": "2025-10-06 07:10:17",
+    "keyword": "test",
+    "line": "this is a test error line"
+  },
+  {
+    "time": "2025-10-06 07:10:17",
+    "keyword": "error",
+    "line": "ERROR: Something failed at Sun Oct  5 01:21:56 PM GMT 2025"
+  },
+  {
+    "time": "2025-10-06 07:26:40",
+    "keyword": "error",
+    "line": "[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42"
+  },
+  {
+    "time": "2025-10-06 07:26:41",
+    "keyword": "warning",
+    "line": "[2025-06-10 10:05:22] WARNING: Unauthorized access attempt detected from 10.0.0.5"
+  },
+  {
+    "time": "2025-10-06 07:26:41",
+    "keyword": "error",
+    "line": "[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-06 07:26:41",
+    "keyword": "exploit",
+    "line": "[2025-06-13 21:30:10] Exploit attempt detected on port 443"
+  },
+  {
+    "time": "2025-10-06 07:26:41",
+    "keyword": "error",
+    "line": "[2025-06-14 22:02:29] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-06 07:26:41",
+    "keyword": "error",
+    "line": "ERROR: Something failed in service A"
+  },
+  {
+    "time": "2025-10-06 07:26:41",
+    "keyword": "error",
+    "line": "ERROR: Disk full on server 1"
+  },
+  {
+    "time": "2025-10-06 07:26:41",
+    "keyword": "error",
+    "line": "ERROR: Something failed"
+  },
+  {
+    "time": "2025-10-06 07:26:41",
+    "keyword": "error",
+    "line": "this is a test error line"
+  },
+  {
+    "time": "2025-10-06 07:26:41",
+    "keyword": "error",
+    "line": "ERROR: Something failed at Sun Oct  5 01:21:56 PM GMT 2025"
+  },
+  {
+    "time": "2025-10-06 07:49:05",
+    "keyword": "error",
+    "line": "[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42"
+  },
+  {
+    "time": "2025-10-06 07:49:05",
+    "keyword": "warning",
+    "line": "[2025-06-10 10:05:22] WARNING: Unauthorized access attempt detected from 10.0.0.5"
+  },
+  {
+    "time": "2025-10-06 07:49:06",
+    "keyword": "error",
+    "line": "[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-06 07:49:06",
+    "keyword": "exploit",
+    "line": "[2025-06-13 21:30:10] Exploit attempt detected on port 443"
+  },
+  {
+    "time": "2025-10-06 07:49:06",
+    "keyword": "error",
+    "line": "[ERROR] Exploit attempt detected on port 22"
+  },
+  {
+    "time": "2025-10-06 07:49:06",
+    "keyword": "warning",
+    "line": "[WARNING] Unauthorized access blocked"
+  }
+]
