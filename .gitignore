@@ -1,0 +1,25 @@
+# --- Runtime and output files ---
+alerts.txt
+*.log
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+venv/
+.env
+
+# --- System / IDE files ---
+.DS_Store
+*.swp
+*.swo
+
+# --- Test artifacts ---
+*.bak
+*.tmp
+
+# --- VS Code ---
+.vscode/
