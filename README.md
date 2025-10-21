@@ -1,10 +1,3 @@
-## 🖼️ Screenshots
-
-Here are some previews of the **Log Alert System** in action:
-
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
-|---------------|---------------|---------------|
-| ![Alert GUI](docs/Screenshot1.png) | ![Detected Log](docs/Screenshot2.png) | ![Alert Example](docs/Screenshot3.png) |
 
 
 # Log Alert System 🔔📜
@@ -31,6 +24,14 @@ A real-time log monitoring and alert system built with **Python** and **PyQt5**.
   Clean PyQt5 interface with alert area and keyword matches.
 
 ---
+## 🖼️ Screenshots
+
+Here are some previews of the **Log Alert System** in action:
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|---------------|---------------|---------------|
+| ![Alert GUI](docs/Screenshot1.png) | ![Detected Log](docs/Screenshot2.png) | ![Alert Example](docs/Screenshot3.png) |
+
 
 
 ## 📂 Project Structure
