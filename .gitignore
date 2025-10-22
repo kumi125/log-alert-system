@@ -1,25 +1,35 @@
-# --- Runtime and output files ---
-alerts.txt
-*.log
-
-# --- Python cache ---
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*.so
 
-# --- Virtual environments ---
+# Virtual environments
 venv/
-.env
+env/
+.venv/
 
-# --- System / IDE files ---
-.DS_Store
-*.swp
-*.swo
-
-# --- Test artifacts ---
-*.bak
-*.tmp
-
-# --- VS Code ---
+# IDE and editor settings
 .vscode/
+.idea/
+
+# Logs and output
+*.log
+*.txt
+output/
+alerts.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build directories
+build/
+dist/
+*.egg-info/

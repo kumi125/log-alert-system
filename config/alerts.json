@@ -313,5 +313,65 @@
     "time": "2025-10-06 07:49:06",
     "keyword": "warning",
     "line": "[WARNING] Unauthorized access blocked"
+  },
+  {
+    "time": "2025-10-06 11:42:17",
+    "keyword": "error",
+    "line": "[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42"
+  },
+  {
+    "time": "2025-10-06 11:42:17",
+    "keyword": "warning",
+    "line": "[2025-06-10 10:05:22] WARNING: Unauthorized access attempt detected from 10.0.0.5"
+  },
+  {
+    "time": "2025-10-06 11:42:17",
+    "keyword": "error",
+    "line": "[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-06 11:42:17",
+    "keyword": "exploit",
+    "line": "[2025-06-13 21:30:10] Exploit attempt detected on port 443"
+  },
+  {
+    "time": "2025-10-06 11:42:17",
+    "keyword": "error",
+    "line": "[ERROR] Exploit attempt detected on port 22"
+  },
+  {
+    "time": "2025-10-06 11:42:17",
+    "keyword": "warning",
+    "line": "[WARNING] Unauthorized access blocked"
+  },
+  {
+    "time": "2025-10-21 06:42:53",
+    "keyword": "error",
+    "line": "[2025-06-10 10:01:45] ERROR: Failed login attempt for user root from 203.0.113.42"
+  },
+  {
+    "time": "2025-10-21 06:42:53",
+    "keyword": "warning",
+    "line": "[2025-06-10 10:05:22] WARNING: Unauthorized access attempt detected from 10.0.0.5"
+  },
+  {
+    "time": "2025-10-21 06:42:53",
+    "keyword": "error",
+    "line": "[2025-06-10 10:10:12] ERROR: Permission denied while accessing /secure/data"
+  },
+  {
+    "time": "2025-10-21 06:42:53",
+    "keyword": "exploit",
+    "line": "[2025-06-13 21:30:10] Exploit attempt detected on port 443"
+  },
+  {
+    "time": "2025-10-21 06:42:53",
+    "keyword": "error",
+    "line": "[ERROR] Exploit attempt detected on port 22"
+  },
+  {
+    "time": "2025-10-21 06:42:53",
+    "keyword": "warning",
+    "line": "[WARNING] Unauthorized access blocked"
   }
 ]
